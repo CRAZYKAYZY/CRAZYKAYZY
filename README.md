@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend stuff
 - 🌱 I’m currently learning golang, java, php.
 - 💞️ I’m looking to collaborate on bankend shinanigans.
-- 📫 How to reach me on twitter @crzykyzy
+- 📫 Reach me on twitter @crzykyzy and discord crzykyzy#1879
 
 <!---
 CRAZYKAYZY/CRAZYKAYZY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
