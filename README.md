@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CRAZYKAYZY
 - 👀 I’m interested in backend stuff
-- 🌱 I’m currently learning golang, java, php.
+- 🌱 I’m currently learning golang, because that's where I have found solace.
 - 💞️ I’m looking to collaborate on bankend shinanigans.
 - 📫 Reach me on twitter @crzykyzy and discord crzykyzy#1879
 
